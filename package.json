@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-exercise",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewoskyx/unit-test-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewoskyx/unit-test-exercise/issues"
+  },
+  "homepage": "https://github.com/Ewoskyx/unit-test-exercise#readme"
+}
